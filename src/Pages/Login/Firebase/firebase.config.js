@@ -1,10 +1,10 @@
 const firebaseConfig = {
-  apiKey:process.env.REACT_APP_FIREBASE_API_KEY,
-  authDomain:process.env.REACT_APP_FIREBASE_AUTH_DOMAIN,
-  projectId:process.env.REACT_APP_FIREBASE_PROJECT_ID,
-  storageBucket:process.env.REACT_APP_FIREBASE_STORAGE_BUCKET,
-  messagingSenderId:process.env.REACT_APP_FIREBASE_MESSAGING_SENDER,
-  appId:process.env.REACT_APP_FIREBASE_APP_ID,
+  apiKey: "AIzaSyD4qzpgX62XWl-5EQI21QBv5k8TiHENWdU",
+  authDomain: "car-mechanics-ae757.firebaseapp.com",
+  projectId: "car-mechanics-ae757",
+  storageBucket: "car-mechanics-ae757.appspot.com",
+  messagingSenderId: "73683886909",
+  appId: "1:73683886909:web:a8ea50df26105e8ea61b54"
 };
 
-export default firebaseConfig; 
+export default firebaseConfig;
